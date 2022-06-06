@@ -1,0 +1,8 @@
+
+number = int(input())
+while number != -144:
+    if  100 <=  number <= 200 or number == 0 :
+      pass
+    else :
+        print("invalid")
+    number = int(input())
